@@ -59,13 +59,13 @@ I, initially trained both models with the window size and epochs parameters set 
     Closing Prices loss - 0.0040
     FNG Model loss - 0.0479
 
-What's interesting is that Closing Prices model trained relatively well with the loss falling from 0.0577 for epoch=1 to 0.0040 for epoch=50. But FNG model could not train at all. FNG model inital loass was .0465 and it kept the loss almost same which is .0479 from epoch 1 through epoch 50. Bassically the starting loss is equal to ending loss.
+What's interesting is that Closing Prices model trained relatively well with the loss falling from 0.0577 for epoch=1 to 0.0040 for epoch=50. But FNG model could not even train at all. FNG model inital loass was .0465 and it kept the loss almost same which is .0479 from epoch 1 through epoch 50. Bassically the starting loss is equal to ending loss.
 
 
 
 ##### **Which model tracks the actual values better over time?**
 
-    The Closing Prices model is much better in tracking the prices over time. where as the FNG Model showed no correlation between predicted prices and actual prices.
+    The Closing Prices model is much better in tracking the prices over time where as the FNG Model showed no correlation between predicted prices and actual prices.
 
 
 ##### **Which window size works best for the model?**

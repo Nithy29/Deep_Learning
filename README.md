@@ -8,9 +8,9 @@ In this assignment, I will use deep learning recurrent neural networks to model 
 
 I have completed the following tasks:
 
-1. [Prepare the data for training and testing](#prepare-the-data-for-training-and-testing)
-2. [Build and train custom LSTM RNNs](#build-and-train-custom-lstm-rnns)
-3. [Evaluate the performance of each model](#evaluate-the-performance-of-each-model)
+1. Prepare the data for training and testing
+2. Build and train custom LSTM RNNs
+3. Evaluate the performance of each model
 
 - - -
 

@@ -36,8 +36,8 @@ I have completed the following tasks:
 ### Building and training of custom LSTM RNNs:
 
 There are two notebook and I used same custom LSTM RNN architecture in each notebook. 
-  >  notebook - [Closing Prices Starter Notebook](Starter_Code/lstm_stock_predictor_closing.ipynb) is fitted with closing prices and
-  >  notebook - [FNG Starter Notebook](Starter_Code/lstm_stock_predictor_fng.ipynb) is fitted with FNG index values
+  >  notebook - [Closing Prices Starter Notebook](Starter_Code/lstm_stock_predictor_closing.ipynb) is fitted with closing prices <br>
+  >  notebook - [FNG Starter Notebook](Starter_Code/lstm_stock_predictor_fng.ipynb) is fitted with FNG index values <br>
     
 Both models use the same parameters and training steps so that both models can be compared to each other accurately.
 
